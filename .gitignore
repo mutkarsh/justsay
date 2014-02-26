@@ -34,6 +34,7 @@
 **/.classpath
 **/.settings/
 **/.loadpath
+**/*.properties
 
 # External tool builders
 **/.externalToolBuilders/
